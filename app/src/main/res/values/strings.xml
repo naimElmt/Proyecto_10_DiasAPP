@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">10 películas para 10 dias</string>
+    <string name="dia">Dia %s</string>
+    <string name="dia1_title">Django Unchained</string>
+    <string name="dia1_desc">Un antiguo esclavo une sus fuerzas con un cazador de recompensas alemán que lo libera y ayuda a cazar a los criminales más buscados del Sur, todo ello con la esperanza de encontrar a su esposa perdida hace mucho tiempo.</string>
+    <string name="dia2_title">Inglorius Basterds</string>
+    <string name="dia2_desc">II Guerra Mundial, Francia, Shosanna presencia la ejecución de su familia por orden del coronel nazi Hans Landa. Huye a Paris y adopta una nueva identidad como propietaria de un cine. Mientras el teniente Aldo Raine adiestra a un grupo de soldados judíos.</string>
+
+    <string name="dia3_title">Interstellar</string>
+    <string name="dia3_desc">Un grupo de científicos y exploradores, encabezados por Cooper, se embarcan en un viaje espacial para encontrar un lugar con las condiciones necesarias para reemplazar a la Tierra y comenzar una nueva vida allí.</string>
+
+    <string name="dia4_title">Pulp Fiction</string>
+    <string name="dia4_desc">Historias de dos matones, un boxeador y una pareja de atracadores de poca monta envueltos en una violencia espectacular e irónica.</string>
+
+    <string name="dia5_title">Gran Torino</string>
+    <string name="dia5_desc">Walt Kowalski, un veterano de la guerra de Corea, es un obrero jubilado del sector del automóvil que ha enviudado recientemente. Su máxima pasión es cuidar de su más preciado tesoro: un coche Gran Torino de 1972.</string>
+
+    <string name="dia6_title">Kill Bill: Vol. 1</string>
+    <string name="dia6_desc">Mamba Negra es una asesina que, el día de su boda, es atacada por los miembros de la banda de su jefe, Bill. Sin embargo consigue sobrevivir, aunque queda en coma. Cinco años después despierta, con un deseo de venganza.</string>
+
+    <string name="dia7_title">Kill Bill: Vol. 2</string>
+    <string name="dia7_desc">Tras eliminar a algunos de los miembros de la banda, Mamba negra continúa con su venganza. Su principal objetivo es matar a su líder y antiguo jefe Bill, que la dió por muerta dejándola en coma.</string>
+
+    <string name="dia8_title">Reservoir Dogs</string>
+    <string name="dia8_desc">Seis criminales profesionales son contratados para robar en un almacén de diamantes, pero la policía aparece inesperadamente en el momento del atraco. Algunos miembros de la banda mueren en el enfrentamiento y otros logran huir.</string>
+
+    <string name="dia9_title">Whiplash</string>
+    <string name="dia9_desc">Andrew Neiman es un joven y ambicioso baterista de jazz. Marcado por el fracaso de la carrera literaria de su padre, está obsesionado con alcanzar la cima dentro del elitista conservatorio de música de la Costa Este en el que estudia.</string>
+
+    <string name="dia10_title">Fury</string>
+    <string name="dia10_desc">Al mando del veterano sargento Wardaddy, una brigada de cinco soldados americanos a bordo de un tanque, luchan contra un ejército nazi al borde de la desesperación ya que los alemanes sabían que su derrota estaba ya cantada por aquel entonces.</string>
+
+</resources>
