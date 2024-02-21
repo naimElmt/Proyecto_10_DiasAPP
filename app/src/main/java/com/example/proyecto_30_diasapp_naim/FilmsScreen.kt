@@ -92,13 +92,13 @@ fun FilmTopAppBar(modifier: Modifier = Modifier) {
 
 
 @Composable
-fun FilmsList(films: List<Film>, modifier: Modifier = Modifier)
+fun FilmsList(filmsList: List<Film>, modifier: Modifier = Modifier)
 {
     LazyColumn(modifier = modifier,
         contentPadding = PaddingValues(
             top = dimensionResource(R.dimen.padding_small),
             bottom = dimensionResource(R.dimen.padding_small))) {
-        items(films) {
+        items(filmsList) {
             FilmItem(film = it)
         }
     }

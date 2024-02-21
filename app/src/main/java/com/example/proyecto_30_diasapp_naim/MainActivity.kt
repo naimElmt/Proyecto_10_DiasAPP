@@ -13,7 +13,7 @@ import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.example.proyecto_30_diasapp_naim.data.FilmsRepository.films
+import com.example.proyecto_30_diasapp_naim.data.DataSource
 import com.example.proyecto_30_diasapp_naim.ui.theme.Proyecto_30_DiasAPP_NaimTheme
 
 
@@ -46,7 +46,8 @@ fun FilmApp(){
             FilmTopAppBar()
         }
     ) {
-        FilmsList(films = films, Modifier.padding(it))
+        //FilmsList(films = films, Modifier.padding(it))
+        FilmsList(filmsList = DataSource().loadFilms(), Modifier.padding(it))
     }
 }
 
